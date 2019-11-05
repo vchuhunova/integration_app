@@ -21,7 +21,7 @@ Blueprint and view example was provided in :file:`myservice/views/home.py`:
 
 .. literalinclude:: ../../myservice/views/home.py
    :name: home.py
-   :emphasize-lines: 13
+   :emphasize-lines: 12
 
 
 Views can return simple mappings (as highlighted in the example above),
